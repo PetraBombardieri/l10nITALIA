@@ -58,3 +58,7 @@
 	path = account-invoicing
 	url = https://github.com/OCA/account-invoicing.git
 	branch = Sub-Modules
+[submodule "brand"]
+	path = brand
+	url = https://github.com/OCA/brand.git
+	branch = Sub-Modules
