@@ -142,3 +142,7 @@
 	path = timesheet
 	url = https://github.com/OCA/timesheet.git
 	branch = Sub-Modules
+[submodule "project"]
+	path = project
+	url = https://github.com/OCA/project.git
+	branch = Sub-Modules
