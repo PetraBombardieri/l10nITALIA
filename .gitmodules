@@ -122,3 +122,7 @@
 	path = account-analytic
 	url = https://github.com/OCA/account-analytic.git
 	branch = Sub-Modules
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting.git
+	branch = Sub-Modules
