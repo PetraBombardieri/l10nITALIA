@@ -18,3 +18,7 @@
 	path = product-attribute
 	url = https://github.com/OCA/product-attribute.git
 	branch = Sub-Modules
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = Sub-Modules
