@@ -126,3 +126,7 @@
 	path = account-invoice-reporting
 	url = https://github.com/OCA/account-invoice-reporting.git
 	branch = Sub-Modules
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/OCA/geospatial.git
+	branch = Sub-Modules
