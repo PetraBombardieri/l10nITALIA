@@ -158,3 +158,7 @@
 	path = community-data-files
 	url = https://github.com/OCA/community-data-files.git
 	branch = Sub-Modules
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = Sub-Modules
