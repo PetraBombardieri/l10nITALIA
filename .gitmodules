@@ -34,3 +34,7 @@
 	path = storage
 	url = https://github.com/OCA/storage.git
 	branch = Sub-Modules
+[submodule "connector"]
+	path = connector
+	url = https://github.com/OCA/connector.git
+	branch = Sub-Modules
