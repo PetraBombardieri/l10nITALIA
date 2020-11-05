@@ -90,3 +90,7 @@
 	path = stock-logistics-barcode
 	url = https://github.com/OCA/stock-logistics-barcode.git
 	branch = Sub-Modules
+[submodule "field-service.git"]
+	path = field-service.git
+	url = https://github.com/OCA/field-service.git
+	branch = Sub-Modules
