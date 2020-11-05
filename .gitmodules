@@ -54,3 +54,7 @@
 	path = purchase-workflow
 	url = https://github.com/OCA/purchase-workflow.git
 	branch = Sub-Modules
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = Sub-Modules
