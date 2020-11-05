@@ -114,3 +114,7 @@
 	path = sale-workflow
 	url = https://github.com/OCA/sale-workflow.git
 	branch = Sub-Modules
+[submodule "helpdesk"]
+	path = helpdesk
+	url = https://github.com/OCA/helpdesk.git
+	branch = Sub-Modules
