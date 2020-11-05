@@ -170,3 +170,7 @@
 	path = mis-builder
 	url = https://github.com/OCA/mis-builder.git
 	branch = Sub-Modules
+[submodule "l10n-italy"]
+	path = l10n-italy
+	url = https://github.com/OCA/l10n-italy.git
+	branch = Sub-Modules
