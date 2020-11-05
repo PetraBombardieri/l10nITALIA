@@ -166,3 +166,7 @@
 	path = intrastat-extrastat
 	url = https://github.com/OCA/intrastat-extrastat.git
 	branch = Sub-Modules
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = Sub-Modules
