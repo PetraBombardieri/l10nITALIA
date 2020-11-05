@@ -6,3 +6,7 @@
 	path = account-financial-tools
 	url = https://github.com/OCA/account-financial-tools.git
 	branch = Sub-Modules
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA/partner-contact.git
+	branch = Sub-Modules
