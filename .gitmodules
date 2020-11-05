@@ -14,3 +14,7 @@
 	path = queue
 	url = https://github.com/OCA/queue.git
 	branch = Sub-Modules
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/OCA/product-attribute.git
+	branch = Sub-Modules
