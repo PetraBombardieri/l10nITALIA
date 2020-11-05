@@ -154,3 +154,7 @@
 	path = project-reporting
 	url = https://github.com/OCA/project-reporting.git
 	branch = Sub-Modules
+[submodule "community-data-files"]
+	path = community-data-files
+	url = https://github.com/OCA/community-data-files.git
+	branch = Sub-Modules
