@@ -62,3 +62,7 @@
 	path = brand
 	url = https://github.com/OCA/brand.git
 	branch = Sub-Modules
+[submodule "contract"]
+	path = contract
+	url = https://github.com/OCA/contract.git
+	branch = Sub-Modules
