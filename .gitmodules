@@ -10,3 +10,7 @@
 	path = partner-contact
 	url = https://github.com/OCA/partner-contact.git
 	branch = Sub-Modules
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue.git
+	branch = Sub-Modules
