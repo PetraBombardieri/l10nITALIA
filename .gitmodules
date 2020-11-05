@@ -1,0 +1,176 @@
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = Sub-Modules
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/OCA/account-financial-tools.git
+	branch = Sub-Modules
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA/partner-contact.git
+	branch = Sub-Modules
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue.git
+	branch = Sub-Modules
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/OCA/product-attribute.git
+	branch = Sub-Modules
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = Sub-Modules
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web.git
+	branch = Sub-Modules
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = Sub-Modules
+[submodule "storage"]
+	path = storage
+	url = https://github.com/OCA/storage.git
+	branch = Sub-Modules
+[submodule "connector"]
+	path = connector
+	url = https://github.com/OCA/connector.git
+	branch = Sub-Modules
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/OCA/server-env.git
+	branch = Sub-Modules
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+	branch = Sub-Modules
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = Sub-Modules
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+	branch = Sub-Modules
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = Sub-Modules
+[submodule "brand"]
+	path = brand
+	url = https://github.com/OCA/brand.git
+	branch = Sub-Modules
+[submodule "contract"]
+	path = contract
+	url = https://github.com/OCA/contract.git
+	branch = Sub-Modules
+[submodule "pos"]
+	path = pos
+	url = https://github.com/OCA/pos.git
+	branch = Sub-Modules
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/OCA/server-backend.git
+	branch = Sub-Modules
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/OCA/bank-payment.git
+	branch = Sub-Modules
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/OCA/account-payment.git
+	branch = Sub-Modules
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = Sub-Modules
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode.git
+	branch = Sub-Modules
+[submodule "field-service.git"]
+	path = field-service.git
+	url = https://github.com/OCA/field-service.git
+	branch = Sub-Modules
+[submodule "field-service"]
+	path = field-service
+	url = https://github.com/OCA/field-service.git
+	branch = Sub-Modules
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = https://github.com/OCA/sale-reporting.git
+	branch = Sub-Modules
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/OCA/account-closing.git
+	branch = Sub-Modules
+[submodule "currency"]
+	path = currency
+	url = https://github.com/OCA/currency.git
+	branch = Sub-Modules
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+	branch = Sub-Modules
+[submodule "helpdesk"]
+	path = helpdesk
+	url = https://github.com/OCA/helpdesk.git
+	branch = Sub-Modules
+[submodule "account-analytic"]
+	path = account-analytic
+	url = https://github.com/OCA/account-analytic.git
+	branch = Sub-Modules
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting.git
+	branch = Sub-Modules
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/OCA/geospatial.git
+	branch = Sub-Modules
+[submodule "hr"]
+	path = hr
+	url = https://github.com/OCA/hr.git
+	branch = Sub-Modules
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/OCA/management-system.git
+	branch = Sub-Modules
+[submodule "timesheet"]
+	path = timesheet
+	url = https://github.com/OCA/timesheet.git
+	branch = Sub-Modules
+[submodule "project"]
+	path = project
+	url = https://github.com/OCA/project.git
+	branch = Sub-Modules
+[submodule "crm"]
+	path = crm
+	url = https://github.com/OCA/crm.git
+	branch = Sub-Modules
+[submodule "project-reporting"]
+	path = project-reporting
+	url = https://github.com/OCA/project-reporting.git
+	branch = Sub-Modules
+[submodule "community-data-files"]
+	path = community-data-files
+	url = https://github.com/OCA/community-data-files.git
+	branch = Sub-Modules
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting.git
+	branch = Sub-Modules
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = https://github.com/OCA/intrastat-extrastat.git
+	branch = Sub-Modules
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = Sub-Modules
+[submodule "l10n-italy"]
+	path = l10n-italy
+	url = https://github.com/OCA/l10n-italy.git
+	branch = Sub-Modules
