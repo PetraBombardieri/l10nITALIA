@@ -86,3 +86,7 @@
 	path = reporting-engine
 	url = https://github.com/OCA/reporting-engine.git
 	branch = Sub-Modules
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode.git
+	branch = Sub-Modules
