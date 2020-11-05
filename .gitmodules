@@ -70,3 +70,7 @@
 	path = pos
 	url = https://github.com/OCA/pos.git
 	branch = Sub-Modules
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/OCA/server-backend.git
+	branch = Sub-Modules
