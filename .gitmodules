@@ -38,3 +38,7 @@
 	path = connector
 	url = https://github.com/OCA/connector.git
 	branch = Sub-Modules
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/OCA/server-env.git
+	branch = Sub-Modules
