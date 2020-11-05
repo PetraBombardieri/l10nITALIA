@@ -106,3 +106,7 @@
 	path = account-closing
 	url = https://github.com/OCA/account-closing.git
 	branch = Sub-Modules
+[submodule "currency"]
+	path = currency
+	url = https://github.com/OCA/currency.git
+	branch = Sub-Modules
