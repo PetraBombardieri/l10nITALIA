@@ -150,3 +150,7 @@
 	path = crm
 	url = https://github.com/OCA/crm.git
 	branch = Sub-Modules
+[submodule "project-reporting"]
+	path = project-reporting
+	url = https://github.com/OCA/project-reporting.git
+	branch = Sub-Modules
