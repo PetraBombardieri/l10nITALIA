@@ -134,3 +134,7 @@
 	path = hr
 	url = https://github.com/OCA/hr.git
 	branch = Sub-Modules
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/OCA/management-system.git
+	branch = Sub-Modules
