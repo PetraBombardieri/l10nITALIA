@@ -46,3 +46,7 @@
 	path = delivery-carrier
 	url = https://github.com/OCA/delivery-carrier.git
 	branch = Sub-Modules
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = Sub-Modules
