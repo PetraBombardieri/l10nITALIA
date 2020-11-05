@@ -78,3 +78,7 @@
 	path = bank-payment
 	url = https://github.com/OCA/bank-payment.git
 	branch = Sub-Modules
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/OCA/account-payment.git
+	branch = Sub-Modules
