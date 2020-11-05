@@ -94,3 +94,7 @@
 	path = field-service.git
 	url = https://github.com/OCA/field-service.git
 	branch = Sub-Modules
+[submodule "field-service"]
+	path = field-service
+	url = https://github.com/OCA/field-service.git
+	branch = Sub-Modules
