@@ -22,3 +22,7 @@
 	path = stock-logistics-warehouse
 	url = https://github.com/OCA/stock-logistics-warehouse.git
 	branch = Sub-Modules
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web.git
+	branch = Sub-Modules
