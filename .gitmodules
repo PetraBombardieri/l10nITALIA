@@ -162,3 +162,7 @@
 	path = account-financial-reporting
 	url = https://github.com/OCA/account-financial-reporting.git
 	branch = Sub-Modules
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = https://github.com/OCA/intrastat-extrastat.git
+	branch = Sub-Modules
