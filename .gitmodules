@@ -42,3 +42,7 @@
 	path = server-env
 	url = https://github.com/OCA/server-env.git
 	branch = Sub-Modules
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+	branch = Sub-Modules
