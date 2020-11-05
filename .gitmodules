@@ -82,3 +82,7 @@
 	path = account-payment
 	url = https://github.com/OCA/account-payment.git
 	branch = Sub-Modules
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = Sub-Modules
