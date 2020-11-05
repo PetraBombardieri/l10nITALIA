@@ -110,3 +110,7 @@
 	path = currency
 	url = https://github.com/OCA/currency.git
 	branch = Sub-Modules
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = https://github.com/OCA/sale-workflow.git
+	branch = Sub-Modules
