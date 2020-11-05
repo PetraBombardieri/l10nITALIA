@@ -50,3 +50,7 @@
 	path = stock-logistics-workflow
 	url = https://github.com/OCA/stock-logistics-workflow.git
 	branch = Sub-Modules
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+	branch = Sub-Modules
