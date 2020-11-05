@@ -130,3 +130,7 @@
 	path = geospatial
 	url = https://github.com/OCA/geospatial.git
 	branch = Sub-Modules
+[submodule "hr"]
+	path = hr
+	url = https://github.com/OCA/hr.git
+	branch = Sub-Modules
